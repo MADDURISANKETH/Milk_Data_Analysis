@@ -5,7 +5,6 @@ This project contains an Excel dashboard for analyzing milk product data from 20
 ## Files
 
 - `Milk_Data_Analysis.xlsx`: The Excel file containing the dashboard and data analysis.
-- `LICENSE`: The license for this project.
 
 ## How to Use
 
